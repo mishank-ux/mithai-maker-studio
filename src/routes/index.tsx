@@ -154,7 +154,7 @@ function RajSweetsPage() {
         )}
       </header>
 
-      <section className="relative isolate min-h-[calc(100svh-112px)] overflow-hidden bg-saffron px-4 pb-12 pt-12 sm:px-6 lg:px-8 lg:pt-16">
+      <section className="relative isolate overflow-hidden bg-saffron px-4 pb-20 pt-12 sm:px-6 lg:px-8 lg:pb-24 lg:pt-16">
         <div className="sunburst absolute inset-0 -z-10 opacity-70" />
         <div className="absolute -left-12 top-24 -z-10 size-44 rounded-full border-[26px] border-cream/30" />
         <div className="mx-auto grid max-w-7xl items-center gap-10 lg:grid-cols-[1.05fr_.95fr]">
